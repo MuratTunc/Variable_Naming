@@ -1,4 +1,4 @@
-# Variable_Naming
+# Variable_Naming Techniques
 
 In software development, variable naming conventions are crucial for code readability, maintainability, and consistency. Different approaches exist depending on the language, development practices, or team conventions. Here are the most common types of variable naming conventions:
 1. Camel Case (camelCase)
